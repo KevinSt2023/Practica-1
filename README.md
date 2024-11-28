@@ -1,2 +1,2 @@
-# Actualizando Datos del estudiante
+# Actualizando README del repositorio
 Estamos practicando GitHub
