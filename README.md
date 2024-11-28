@@ -1,2 +1,2 @@
-# Practica-1
+# Actualizando Datos del estudiante
 Estamos practicando GitHub
